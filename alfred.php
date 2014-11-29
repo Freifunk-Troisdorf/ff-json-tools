@@ -44,7 +44,7 @@
   						<th>Name</th>
   						<th>Router-Modell</th>
   						<th>Firmware</th>
-              <th>Autoupdate</th>
+              			<th>Autoupdate</th>
   						<th>Online seit</th>
   						<th>Traffic</th>
   						<th>Clients</th>
