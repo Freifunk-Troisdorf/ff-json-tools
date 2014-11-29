@@ -3,10 +3,10 @@
  * alfred_filter.php
  * by Kemal Soyguder <kemal@freifunk-troisdorf.de>
 
- * This work is licensed under the Creative Commons //
- * Attribution-NonCommercial-ShareAlike 4.0 International License. //
- * To view a copy of this license, visit //
- * http://creativecommons.org/licenses/by-nc-sa/4.0/. 
+ * This work is licensed under the Creative Commons
+ * Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * To view a copy of this license, visit
+ * http://creativecommons.org/licenses/by-nc-sa/4.0/
 */
 
 /*
@@ -14,7 +14,7 @@
  * you can either decide to save the filtered data into the new file $alfred_local or save & print it
 */
 
-$print_filtered = true;
+$print_filtered = false;
 
 /*
  * configuration end
