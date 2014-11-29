@@ -22,7 +22,7 @@ $print_filtered = false;
 
 $alfred_src = "http://ffmap.freifunk-rheinland.net/alfred_merged.json";
 $alfred_local = "./alfred.json";
-$filter = array("Troisdorf-", "Troisdorf");
+$filter = array("TDF-", "Troisdorf");
 
 $alfred_json = file_get_contents($alfred_src);
 $alfred_array = json_decode($alfred_json, true);
