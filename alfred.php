@@ -73,7 +73,7 @@
                     break;
                   }
                   echo "<td>".round($router->uptime/3600,2)." h</td>";
-                  echo "<td><span class=\"label label-success\"><span class=\"glyphicon glyphicon-arrow-down\"></span> ".round(($router->traffic->tx->bytes/10240),2)." MiB</span> <span class=\"label label-danger\"><span class=\"glyphicon glyphicon-arrow-up\"></span> ".round(($router->traffic->rx->bytes/10240),2)." mb</span></td>";
+                  echo "<td><span class=\"label label-success\"><span class=\"glyphicon glyphicon-arrow-down\"></span> ".round(($router->traffic->tx->bytes/10240),2)." MiB</span> <span class=\"label label-danger\"><span class=\"glyphicon glyphicon-arrow-up\"></span> ".round(($router->traffic->rx->bytes/10240),2)." MiB</span></td>";
                   echo "<td>0</td>";
                   echo "</tr>";
                 }
