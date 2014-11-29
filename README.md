@@ -1,4 +1,4 @@
 ff-json-tools
 =============
 
-tools to manage json--objects
+some collection of json-tools to manage json objects related to Freifunk
