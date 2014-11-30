@@ -47,7 +47,7 @@
               			<th>Autoupdate</th>
   						<th>Online seit</th>
   						<th>Traffic</th>
-  						<th>Clients</th>
+  						<th>Clients <span class="label label-info">beta</span></th>
   					</tr>
             <?php
               $i = 1;
